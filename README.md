@@ -8,6 +8,9 @@
 ![GE MarkVIe](https://img.shields.io/badge/GE%20MarkVIe-1E4D8C?style=flat&logo=ge&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-3CB371?style=flat&logo=circuitverse&logoColor=white)
 ![NI Multisim](https://img.shields.io/badge/NI%20Multisim-6A1B9A?style=flat&logo=ni&logoColor=white)
+![Microchip MPLAB](https://img.shields.io/badge/Microchip%20MPLAB-004482?style=flat&logo=microchip&logoColor=white)
+![STM32F407](https://img.shields.io/badge/STM32F407-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![C Programming](https://img.shields.io/badge/C%20Programming-A8B9CC?style=flat&logo=c&logoColor=white)
 
 
 ## ⚡ Github Stats
